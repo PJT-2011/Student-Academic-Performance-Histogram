@@ -23,3 +23,7 @@ This project utilizes a dataset of student metrics to model academic performance
     The script will display the histogram in a new window and automatically save a copy as `histogram_output.png` in your folder.
 
 ---
+## Video Demonstration
+Click the link for the demo:
+
+    https://drive.google.com/drive/folders/1hzowe04KQgb2sJxFfAQootOa2UCc9GTN?usp=drive_link
